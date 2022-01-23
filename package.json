@@ -1,0 +1,7 @@
+{
+  "name": "esbuild-bundle-analyzer",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "noyobo <noyobo@gmail.com>",
+  "license": "MIT"
+}
